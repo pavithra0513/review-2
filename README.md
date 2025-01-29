@@ -9,7 +9,7 @@ The micro-level effects of certain institutions on localized congestion are the 
 ### Methods Used
 Using real-time traffic data from the AutoNavi navigation system, the researchers employed a detailed multi-step methodology:
 
-Data collection: AutoNavi, a popular navigation app in China, provided real-time traffic data via extraction. Dynamic traffic data was separated into links by the system, and each link was further subdivided into parts of 200 meters in length to guarantee high spatial resolution.
+#Data collection: AutoNavi, a popular navigation app in China, provided real-time traffic data via extraction. Dynamic traffic data was separated into links by the system, and each link was further subdivided into parts of 200 meters in length to guarantee high spatial resolution.
 
 Definition of an index: There are two main indexes that were made:
 
